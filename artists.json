@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "nombre": "Marc Anthony",
+    "genero": "Salsa"
+  },
+  {
+    "id": 2,
+    "nombre": "Daft Punk",
+    "genero": "Electronica"
+  },
+  {
+    "id": 3,
+    "nombre": "Hector Lavoe",
+    "genero": "Salsa"
+  },
+  {
+    "id": 4,
+    "nombre": "David Guetta",
+    "genero": "Electronica"
+  },
+  {
+    "id": 5,
+    "nombre": "Grupo Niche",
+    "genero": "Salsa"
+  },
+  {
+    "id": 6,
+    "nombre": "Avicii",
+    "genero": "Electronica"
+  },
+  {
+    "id": 7,
+    "nombre": "Celia Cruz",
+    "genero": "Salsa"
+  },
+  {
+    "id": 8,
+    "nombre": "Calvin Harris",
+    "genero": "Electronica"
+  },
+  {
+    "id": 9,
+    "nombre": "Joe Arroyo",
+    "genero": "Salsa"
+  },
+  {
+    "id": 10,
+    "nombre": "Martin Garrix",
+    "genero": "Electronica"
+  },
+  {
+    "id": 11,
+    "nombre": "Willie Colon",
+    "genero": "Salsa"
+  },
+  {
+    "id": 12,
+    "nombre": "Skrillex",
+    "genero": "Electronica"
+  },
+  {
+    "id": 13,
+    "nombre": "Juan Luis Guerra",
+    "genero": "Merengue"
+  },
+  {
+    "id": 14,
+    "nombre": "Toto La Momposina",
+    "genero": "Folclor"
+  },
+  {
+    "id": 15,
+    "nombre": "Carlos Vives",
+    "genero": "Vallenato"
+  },
+  {
+    "id": 16,
+    "nombre": "Datty",
+    "genero": "Merengue"
+  },
+  {
+    "id": 17,
+    "nombre": "Berenice",
+    "genero": "Guaracha"
+  },
+  {
+    "id": 18,
+    "nombre": "Bad Bunny",
+    "genero": "Reggaeton"
+  },
+  {
+    "id": 19,
+    "nombre": "Feid",
+    "genero": "Reggaeton"
+  },
+  {
+    "id": 20,
+    "nombre": "Black Coffee",
+    "genero": "Electronica"
+  }
+]
