@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pa'lla Voy",
+    "fechaLanzamiento": "2023-01-01",
+    "artistaId": 1,
+    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumMarc(Pallavoy).jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "La Reina Del Merengue",
+    "fechaLanzamiento": "2020-01-01",
+    "artistaId": 11,
+    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDatty(LaReinaDelMerengue).jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Discovery",
+    "fechaLanzamiento": "2001-03-12",
+    "artistaId": 2,
+    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDaft(Discovery).jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Reventó",
+    "fechaLanzamiento": "1975-01-01",
+    "artistaId": 3,
+    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumHector(Revento).jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Velocidad Máxima",
+    "fechaLanzamiento": "2019-06-10",
+    "artistaId": 12,
+    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBerenice(VelocidadMaxima).jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Stories",
+    "fechaLanzamiento": "2015-10-02",
+    "artistaId": 4,
+    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumAvicii(Stories).jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Siempre Viviré",
+    "fechaLanzamiento": "2000-09-26",
+    "artistaId": 5,
+    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumCelia(SiempreVivire).jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Salsa Caliente",
+    "fechaLanzamiento": "2021-03-15",
+    "artistaId": 13,
+    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBlackCoffe(SalsaCaliente).jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Se Armó La Moña En Carnaval",
+    "fechaLanzamiento": "1988-01-01",
+    "artistaId": 6,
+    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumJoe(SeArmoLaMonaEnCarnaval).jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Origo",
+    "fechaLanzamiento": "2019-05-31",
+    "artistaId": 7,
+    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumMartin(Origo).jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Recess",
+    "fechaLanzamiento": "2014-03-18",
+    "artistaId": 8,
+    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumSkrillex(Recess).jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Cumbiana",
+    "fechaLanzamiento": "2020-10-02",
+    "artistaId": 10,
+    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumCarlosVives(Cumbiana).jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Tambores Y Cantos",
+    "fechaLanzamiento": "1993-05-20",
+    "artistaId": 9,
+    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumToto(TamboresYCantos).jpg"
+  }
+]
