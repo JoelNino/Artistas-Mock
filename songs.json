@@ -1,576 +1,84 @@
 [
-  {
-    "id": 1,
-    "nombre": "Pa'lla Voy",
-    "duracionSegundos": 246,
-    "albumId": 1,
-    "artistaIds": [1]
-  },
-  {
-    "id": 2,
-    "nombre": "Yo Le Mentí",
-    "duracionSegundos": 258,
-    "albumId": 1,
-    "artistaIds": [1]
-  },
-  {
-    "id": 3,
-    "nombre": "No Se Quita",
-    "duracionSegundos": 231,
-    "albumId": 1,
-    "artistaIds": [1]
-  },
-  {
-    "id": 4,
-    "nombre": "Nada de Nada",
-    "duracionSegundos": 219,
-    "albumId": 1,
-    "artistaIds": [1]
-  },
-  {
-    "id": 5,
-    "nombre": "Mala",
-    "duracionSegundos": 228,
-    "albumId": 1,
-    "artistaIds": [1]
-  },
-  {
-    "id": 6,
-    "nombre": "El Que Te Amaba",
-    "duracionSegundos": 245,
-    "albumId": 1,
-    "artistaIds": [1]
-  },
-  {
-    "id": 7,
-    "nombre": "La Reina Del Merengue",
-    "duracionSegundos": 214,
-    "albumId": 2,
-    "artistaIds": [11]
-  },
-  {
-    "id": 8,
-    "nombre": "Baila Conmigo Luni",
-    "duracionSegundos": 198,
-    "albumId": 2,
-    "artistaIds": [11]
-  },
-  {
-    "id": 9,
-    "nombre": "El Merengue de Yicel",
-    "duracionSegundos": 205,
-    "albumId": 2,
-    "artistaIds": [11]
-  },
-  {
-    "id": 10,
-    "nombre": "Acústica",
-    "duracionSegundos": 187,
-    "albumId": 2,
-    "artistaIds": [11]
-  },
-  {
-    "id": 11,
-    "nombre": "La Fiesta de Londoño",
-    "duracionSegundos": 222,
-    "albumId": 2,
-    "artistaIds": [11]
-  },
-  {
-    "id": 12,
-    "nombre": "Monterrey en Carnaval",
-    "duracionSegundos": 233,
-    "albumId": 2,
-    "artistaIds": [11]
-  },
-  {
-    "id": 13,
-    "nombre": "One More Time",
-    "duracionSegundos": 320,
-    "albumId": 3,
-    "artistaIds": [2]
-  },
-  {
-    "id": 14,
-    "nombre": "Aerodynamic",
-    "duracionSegundos": 212,
-    "albumId": 3,
-    "artistaIds": [2]
-  },
-  {
-    "id": 15,
-    "nombre": "Digital Love",
-    "duracionSegundos": 301,
-    "albumId": 3,
-    "artistaIds": [2]
-  },
-  {
-    "id": 16,
-    "nombre": "Harder Better Faster Stronger",
-    "duracionSegundos": 224,
-    "albumId": 3,
-    "artistaIds": [2]
-  },
-  {
-    "id": 17,
-    "nombre": "Superheroes",
-    "duracionSegundos": 237,
-    "albumId": 3,
-    "artistaIds": [2]
-  },
-  {
-    "id": 18,
-    "nombre": "Face to Face",
-    "duracionSegundos": 240,
-    "albumId": 3,
-    "artistaIds": [2]
-  },
-  {
-    "id": 19,
-    "nombre": "Something About Us",
-    "duracionSegundos": 258,
-    "albumId": 3,
-    "artistaIds": [2]
-  },
-  {
-    "id": 20,
-    "nombre": "Reventó",
-    "duracionSegundos": 268,
-    "albumId": 4,
-    "artistaIds": [3]
-  },
-  {
-    "id": 21,
-    "nombre": "El Todopoderoso",
-    "duracionSegundos": 275,
-    "albumId": 4,
-    "artistaIds": [3]
-  },
-  {
-    "id": 22,
-    "nombre": "Periódico de Ayer",
-    "duracionSegundos": 262,
-    "albumId": 4,
-    "artistaIds": [3]
-  },
-  {
-    "id": 23,
-    "nombre": "Mi Gente",
-    "duracionSegundos": 241,
-    "albumId": 4,
-    "artistaIds": [3]
-  },
-  {
-    "id": 24,
-    "nombre": "Aguanile",
-    "duracionSegundos": 254,
-    "albumId": 4,
-    "artistaIds": [3]
-  },
-  {
-    "id": 25,
-    "nombre": "Rompe Saraguey",
-    "duracionSegundos": 233,
-    "albumId": 4,
-    "artistaIds": [3]
-  },
-  {
-    "id": 26,
-    "nombre": "Velocidad Máxima",
-    "duracionSegundos": 198,
-    "albumId": 5,
-    "artistaIds": [12]
-  },
-  {
-    "id": 27,
-    "nombre": "Palacios",
-    "duracionSegundos": 212,
-    "albumId": 5,
-    "artistaIds": [12]
-  },
-  {
-    "id": 28,
-    "nombre": "La Guaracha",
-    "duracionSegundos": 205,
-    "albumId": 5,
-    "artistaIds": [12]
-  },
-  {
-    "id": 29,
-    "nombre": "La Noche",
-    "duracionSegundos": 221,
-    "albumId": 5,
-    "artistaIds": [12]
-  },
-  {
-    "id": 30,
-    "nombre": "PauCastroMusic",
-    "duracionSegundos": 189,
-    "albumId": 5,
-    "artistaIds": [12]
-  },
-  {
-    "id": 31,
-    "nombre": "Guaracha & Motos",
-    "duracionSegundos": 214,
-    "albumId": 5,
-    "artistaIds": [12]
-  },
-  {
-    "id": 32,
-    "nombre": "Waiting for Love",
-    "duracionSegundos": 228,
-    "albumId": 6,
-    "artistaIds": [4]
-  },
-  {
-    "id": 33,
-    "nombre": "For a Better Day",
-    "duracionSegundos": 207,
-    "albumId": 6,
-    "artistaIds": [4]
-  },
-  {
-    "id": 34,
-    "nombre": "Broken Arrows",
-    "duracionSegundos": 233,
-    "albumId": 6,
-    "artistaIds": [4]
-  },
-  {
-    "id": 35,
-    "nombre": "True Believer",
-    "duracionSegundos": 289,
-    "albumId": 6,
-    "artistaIds": [4]
-  },
-  {
-    "id": 36,
-    "nombre": "Pure Grinding",
-    "duracionSegundos": 173,
-    "albumId": 6,
-    "artistaIds": [4]
-  },
-  {
-    "id": 37,
-    "nombre": "Touch Me",
-    "duracionSegundos": 187,
-    "albumId": 6,
-    "artistaIds": [4]
-  },
-  {
-    "id": 38,
-    "nombre": "Siempre Viviré",
-    "duracionSegundos": 231,
-    "albumId": 7,
-    "artistaIds": [5]
-  },
-  {
-    "id": 39,
-    "nombre": "La Negra Tiene Tumbao",
-    "duracionSegundos": 241,
-    "albumId": 7,
-    "artistaIds": [5]
-  },
-  {
-    "id": 40,
-    "nombre": "Quimbara",
-    "duracionSegundos": 198,
-    "albumId": 7,
-    "artistaIds": [5]
-  },
-  {
-    "id": 41,
-    "nombre": "Bemba Colorá",
-    "duracionSegundos": 212,
-    "albumId": 7,
-    "artistaIds": [5]
-  },
-  {
-    "id": 42,
-    "nombre": "Azúcar Negra",
-    "duracionSegundos": 225,
-    "albumId": 7,
-    "artistaIds": [5]
-  },
-  {
-    "id": 43,
-    "nombre": "Guantanamera",
-    "duracionSegundos": 218,
-    "albumId": 7,
-    "artistaIds": [5]
-  },
-  {
-    "id": 44,
-    "nombre": "El día de ayer...",
-    "duracionSegundos": 203,
-    "albumId": 8,
-    "artistaIds": [13]
-  },
-  {
-    "id": 45,
-    "nombre": "Musica Para El Alma",
-    "duracionSegundos": 217,
-    "albumId": 8,
-    "artistaIds": [13]
-  },
-  {
-    "id": 46,
-    "nombre": "Caribe",
-    "duracionSegundos": 198,
-    "albumId": 8,
-    "artistaIds": [13]
-  },
-  {
-    "id": 47,
-    "nombre": "Piano y Guitarra",
-    "duracionSegundos": 225,
-    "albumId": 8,
-    "artistaIds": [13]
-  },
-  {
-    "id": 48,
-    "nombre": "Edna, la reina del chocó",
-    "duracionSegundos": 211,
-    "albumId": 8,
-    "artistaIds": [13]
-  },
-  {
-    "id": 49,
-    "nombre": "Salsa Para Bailar",
-    "duracionSegundos": 234,
-    "albumId": 8,
-    "artistaIds": [13]
-  },
-  {
-    "id": 50,
-    "nombre": "Se Armó La Moña En Carnaval",
-    "duracionSegundos": 298,
-    "albumId": 9,
-    "artistaIds": [6]
-  },
-  {
-    "id": 51,
-    "nombre": "La Rebelión",
-    "duracionSegundos": 287,
-    "albumId": 9,
-    "artistaIds": [6]
-  },
-  {
-    "id": 52,
-    "nombre": "En Barranquilla Me Quedo",
-    "duracionSegundos": 267,
-    "albumId": 9,
-    "artistaIds": [6]
-  },
-  {
-    "id": 53,
-    "nombre": "Tumbatecho",
-    "duracionSegundos": 254,
-    "albumId": 9,
-    "artistaIds": [6]
-  },
-  {
-    "id": 54,
-    "nombre": "A Mi Dios Todo Le Debo",
-    "duracionSegundos": 312,
-    "albumId": 9,
-    "artistaIds": [6]
-  },
-  {
-    "id": 55,
-    "nombre": "El Preso",
-    "duracionSegundos": 278,
-    "albumId": 9,
-    "artistaIds": [6]
-  },
-  {
-    "id": 56,
-    "nombre": "Ain't Letting You Down",
-    "duracionSegundos": 261,
-    "albumId": 10,
-    "artistaIds": [7]
-  },
-  {
-    "id": 57,
-    "nombre": "Peace of Mind",
-    "duracionSegundos": 148,
-    "albumId": 10,
-    "artistaIds": [7]
-  },
-  {
-    "id": 58,
-    "nombre": "Our Time",
-    "duracionSegundos": 161,
-    "albumId": 10,
-    "artistaIds": [7]
-  },
-  {
-    "id": 59,
-    "nombre": "Inside Our Hearts",
-    "duracionSegundos": 234,
-    "albumId": 10,
-    "artistaIds": [7]
-  },
-  {
-    "id": 60,
-    "nombre": "Sleepless Nights",
-    "duracionSegundos": 180,
-    "albumId": 10,
-    "artistaIds": [7]
-  },
-  {
-    "id": 61,
-    "nombre": "Voodoo",
-    "duracionSegundos": 169,
-    "albumId": 10,
-    "artistaIds": [7]
-  },
-  {
-    "id": 62,
-    "nombre": "Recess",
-    "duracionSegundos": 237,
-    "albumId": 11,
-    "artistaIds": [8]
-  },
-  {
-    "id": 63,
-    "nombre": "Ragga Bomb",
-    "duracionSegundos": 268,
-    "albumId": 11,
-    "artistaIds": [8]
-  },
-  {
-    "id": 64,
-    "nombre": "Coast Is Clear",
-    "duracionSegundos": 312,
-    "albumId": 11,
-    "artistaIds": [8]
-  },
-  {
-    "id": 65,
-    "nombre": "Stranger",
-    "duracionSegundos": 254,
-    "albumId": 11,
-    "artistaIds": [8]
-  },
-  {
-    "id": 66,
-    "nombre": "Try It Out",
-    "duracionSegundos": 241,
-    "albumId": 11,
-    "artistaIds": [8]
-  },
-  {
-    "id": 67,
-    "nombre": "Fire Away",
-    "duracionSegundos": 287,
-    "albumId": 11,
-    "artistaIds": [8]
-  },
-  {
-    "id": 68,
-    "nombre": "Cumbiana",
-    "duracionSegundos": 234,
-    "albumId": 12,
-    "artistaIds": [10]
-  },
-  {
-    "id": 69,
-    "nombre": "Más Que Todo",
-    "duracionSegundos": 218,
-    "albumId": 12,
-    "artistaIds": [10]
-  },
-  {
-    "id": 70,
-    "nombre": "Canción Bonita",
-    "duracionSegundos": 241,
-    "albumId": 12,
-    "artistaIds": [10]
-  },
-  {
-    "id": 71,
-    "nombre": "Déjame Entrar",
-    "duracionSegundos": 225,
-    "albumId": 12,
-    "artistaIds": [10]
-  },
-  {
-    "id": 72,
-    "nombre": "La Bicicleta",
-    "duracionSegundos": 212,
-    "albumId": 12,
-    "artistaIds": [10]
-  },
-  {
-    "id": 73,
-    "nombre": "Tambores Y Cantos",
-    "duracionSegundos": 312,
-    "albumId": 13,
-    "artistaIds": [9]
-  },
-  {
-    "id": 74,
-    "nombre": "La Verdad",
-    "duracionSegundos": 287,
-    "albumId": 13,
-    "artistaIds": [9]
-  },
-  {
-    "id": 75,
-    "nombre": "El Pescador",
-    "duracionSegundos": 268,
-    "albumId": 13,
-    "artistaIds": [9]
-  },
-  {
-    "id": 76,
-    "nombre": "La Llorona Loca",
-    "duracionSegundos": 254,
-    "albumId": 13,
-    "artistaIds": [9]
-  },
-  {
-    "id": 77,
-    "nombre": "Gaita de las Flores",
-    "duracionSegundos": 298,
-    "albumId": 13,
-    "artistaIds": [9]
-  },
-  {
-    "id": 78,
-    "nombre": "Son de Negros",
-    "duracionSegundos": 241,
-    "albumId": 13,
-    "artistaIds": [9]
-  },
-  {
-    "id": 79,
-    "nombre": "Las 3 Guaracheras",
-    "duracionSegundos": 218,
-    "albumId": 5,
-    "artistaIds": [11, 12, 13]
-  },
-  {
-    "id": 80,
-    "nombre": "La Noche es Nuestra",
-    "duracionSegundos": 203,
-    "albumId": 2,
-    "artistaIds": [11, 12]
-  },
-  {
-    "id": 81,
-    "nombre": "Ritmo Caliente",
-    "duracionSegundos": 225,
-    "albumId": 8,
-    "artistaIds": [11, 13]
-  },
-  {
-    "id": 82,
-    "nombre": "Sin Parar",
-    "duracionSegundos": 197,
-    "albumId": 5,
-    "artistaIds": [12, 13]
-  }
+  {"id": 1, "nombre": "Pa'lla Voy", "duracionSegundos": 246, "albumId": 1, "artistaIds": [1], "genero": "Salsa"},
+  {"id": 2, "nombre": "Yo Le Mentí", "duracionSegundos": 258, "albumId": 1, "artistaIds": [1], "genero": "Salsa Romántica"},
+  {"id": 3, "nombre": "No Se Quita", "duracionSegundos": 231, "albumId": 1, "artistaIds": [1], "genero": "Salsa"},
+  {"id": 4, "nombre": "Nada de Nada", "duracionSegundos": 219, "albumId": 1, "artistaIds": [1], "genero": "Salsa Romántica"},
+  {"id": 5, "nombre": "Mala", "duracionSegundos": 228, "albumId": 1, "artistaIds": [1], "genero": "Salsa"},
+  {"id": 6, "nombre": "El Que Te Amaba", "duracionSegundos": 245, "albumId": 1, "artistaIds": [1], "genero": "Bolero"},
+  {"id": 7, "nombre": "La Reina Del Merengue", "duracionSegundos": 214, "albumId": 2, "artistaIds": [11], "genero": "Merengue"},
+  {"id": 8, "nombre": "Baila Conmigo Luni", "duracionSegundos": 198, "albumId": 2, "artistaIds": [11], "genero": "Merengue"},
+  {"id": 9, "nombre": "El Merengue de Yicel", "duracionSegundos": 205, "albumId": 2, "artistaIds": [11], "genero": "Merengue Típico"},
+  {"id": 10, "nombre": "Acústica", "duracionSegundos": 187, "albumId": 2, "artistaIds": [11], "genero": "Merengue"},
+  {"id": 11, "nombre": "La Fiesta de Londoño", "duracionSegundos": 222, "albumId": 2, "artistaIds": [11], "genero": "Merengue"},
+  {"id": 12, "nombre": "Monterrey en Carnaval", "duracionSegundos": 233, "albumId": 2, "artistaIds": [11], "genero": "Merengue Urbano"},
+  {"id": 13, "nombre": "One More Time", "duracionSegundos": 320, "albumId": 3, "artistaIds": [2], "genero": "French House"},
+  {"id": 14, "nombre": "Aerodynamic", "duracionSegundos": 212, "albumId": 3, "artistaIds": [2], "genero": "Electronic Rock"},
+  {"id": 15, "nombre": "Digital Love", "duracionSegundos": 301, "albumId": 3, "artistaIds": [2], "genero": "French House"},
+  {"id": 16, "nombre": "Harder Better Faster Stronger", "duracionSegundos": 224, "albumId": 3, "artistaIds": [2], "genero": "Electronica"},
+  {"id": 17, "nombre": "Superheroes", "duracionSegundos": 237, "albumId": 3, "artistaIds": [2], "genero": "Funk"},
+  {"id": 18, "nombre": "Face to Face", "duracionSegundos": 240, "albumId": 3, "artistaIds": [2], "genero": "French House"},
+  {"id": 19, "nombre": "Something About Us", "duracionSegundos": 258, "albumId": 3, "artistaIds": [2], "genero": "Nu-Disco"},
+  {"id": 20, "nombre": "Reventó", "duracionSegundos": 268, "albumId": 4, "artistaIds": [3], "genero": "Salsa"},
+  {"id": 21, "nombre": "El Todopoderoso", "duracionSegundos": 275, "albumId": 4, "artistaIds": [3], "genero": "Salsa"},
+  {"id": 22, "nombre": "Periódico de Ayer", "duracionSegundos": 262, "albumId": 4, "artistaIds": [3], "genero": "Bolero"},
+  {"id": 23, "nombre": "Mi Gente", "duracionSegundos": 241, "albumId": 4, "artistaIds": [3], "genero": "Salsa"},
+  {"id": 24, "nombre": "Aguanile", "duracionSegundos": 254, "albumId": 4, "artistaIds": [3], "genero": "Afro-Salsa"},
+  {"id": 25, "nombre": "Rompe Saraguey", "duracionSegundos": 233, "albumId": 4, "artistaIds": [3], "genero": "Salsa Dura"},
+  {"id": 26, "nombre": "Velocidad Máxima", "duracionSegundos": 198, "albumId": 5, "artistaIds": [12], "genero": "Guaracha"},
+  {"id": 27, "nombre": "Palacios", "duracionSegundos": 212, "albumId": 5, "artistaIds": [12], "genero": "Guaracha"},
+  {"id": 28, "nombre": "La Guaracha", "duracionSegundos": 205, "albumId": 5, "artistaIds": [12], "genero": "Son Cubano"},
+  {"id": 29, "nombre": "La Noche", "duracionSegundos": 221, "albumId": 5, "artistaIds": [12], "genero": "Guaracha"},
+  {"id": 30, "nombre": "PauCastroMusic", "duracionSegundos": 189, "albumId": 5, "artistaIds": [12], "genero": "Salsa"},
+  {"id": 31, "nombre": "Guaracha & Motos", "duracionSegundos": 214, "albumId": 5, "artistaIds": [12], "genero": "Guaracha"},
+  {"id": 32, "nombre": "Waiting for Love", "duracionSegundos": 228, "albumId": 6, "artistaIds": [4], "genero": "Progressive House"},
+  {"id": 33, "nombre": "For a Better Day", "duracionSegundos": 207, "albumId": 6, "artistaIds": [4], "genero": "Electronica"},
+  {"id": 34, "nombre": "Broken Arrows", "duracionSegundos": 233, "albumId": 6, "artistaIds": [4], "genero": "Folk EDM"},
+  {"id": 35, "nombre": "True Believer", "duracionSegundos": 289, "albumId": 6, "artistaIds": [4], "genero": "Dance Pop"},
+  {"id": 36, "nombre": "Pure Grinding", "duracionSegundos": 173, "albumId": 6, "artistaIds": [4], "genero": "Trap"},
+  {"id": 37, "nombre": "Touch Me", "duracionSegundos": 187, "albumId": 6, "artistaIds": [4], "genero": "Progressive House"},
+  {"id": 38, "nombre": "Siempre Viviré", "duracionSegundos": 231, "albumId": 7, "artistaIds": [5], "genero": "Salsa"},
+  {"id": 39, "nombre": "La Negra Tiene Tumbao", "duracionSegundos": 241, "albumId": 7, "artistaIds": [5], "genero": "Salsa"},
+  {"id": 40, "nombre": "Quimbara", "duracionSegundos": 198, "albumId": 7, "artistaIds": [5], "genero": "Afro-Salsa"},
+  {"id": 41, "nombre": "Bemba Colorá", "duracionSegundos": 212, "albumId": 7, "artistaIds": [5], "genero": "Son Cubano"},
+  {"id": 42, "nombre": "Azúcar Negra", "duracionSegundos": 225, "albumId": 7, "artistaIds": [5], "genero": "Salsa"},
+  {"id": 43, "nombre": "Guantanamera", "duracionSegundos": 218, "albumId": 7, "artistaIds": [5], "genero": "Guajira"},
+  {"id": 44, "nombre": "El día de ayer...", "duracionSegundos": 203, "albumId": 8, "artistaIds": [13], "genero": "Salsa"},
+  {"id": 45, "nombre": "Musica Para El Alma", "duracionSegundos": 217, "albumId": 8, "artistaIds": [13], "genero": "Afrohouse"},
+  {"id": 46, "nombre": "Caribe", "duracionSegundos": 198, "albumId": 8, "artistaIds": [13], "genero": "Salsa"},
+  {"id": 47, "nombre": "Piano y Guitarra", "duracionSegundos": 225, "albumId": 8, "artistaIds": [13], "genero": "Afrohouse"},
+  {"id": 48, "nombre": "Edna, la reina del chocó", "duracionSegundos": 211, "albumId": 8, "artistaIds": [13], "genero": "Salsa"},
+  {"id": 49, "nombre": "Salsa Para Bailar", "duracionSegundos": 234, "albumId": 8, "artistaIds": [13], "genero": "Salsa"},
+  {"id": 50, "nombre": "Se Armó La Moña En Carnaval", "duracionSegundos": 298, "albumId": 9, "artistaIds": [6], "genero": "Salsa"},
+  {"id": 51, "nombre": "La Rebelión", "duracionSegundos": 287, "albumId": 9, "artistaIds": [6], "genero": "Salsa"},
+  {"id": 52, "nombre": "En Barranquilla Me Quedo", "duracionSegundos": 267, "albumId": 9, "artistaIds": [6], "genero": "Cumbia"},
+  {"id": 53, "nombre": "Tumbatecho", "duracionSegundos": 254, "albumId": 9, "artistaIds": [6], "genero": "Salsa"},
+  {"id": 54, "nombre": "A Mi Dios Todo Le Debo", "duracionSegundos": 312, "albumId": 9, "artistaIds": [6], "genero": "Gospel Salsa"},
+  {"id": 55, "nombre": "El Preso", "duracionSegundos": 278, "albumId": 9, "artistaIds": [6], "genero": "Salsa Dura"},
+  {"id": 56, "nombre": "Ain't Letting You Down", "duracionSegundos": 261, "albumId": 10, "artistaIds": [7], "genero": "Progressive House"},
+  {"id": 57, "nombre": "Peace of Mind", "duracionSegundos": 148, "albumId": 10, "artistaIds": [7], "genero": "Electronica"},
+  {"id": 58, "nombre": "Our Time", "duracionSegundos": 161, "albumId": 10, "artistaIds": [7], "genero": "Progressive House"},
+  {"id": 59, "nombre": "Inside Our Hearts", "duracionSegundos": 234, "albumId": 10, "artistaIds": [7], "genero": "Dance Pop"},
+  {"id": 60, "nombre": "Sleepless Nights", "duracionSegundos": 180, "albumId": 10, "artistaIds": [7], "genero": "Trance"},
+  {"id": 61, "nombre": "Voodoo", "duracionSegundos": 169, "albumId": 10, "artistaIds": [7], "genero": "Electronica"},
+  {"id": 62, "nombre": "Recess", "duracionSegundos": 237, "albumId": 11, "artistaIds": [8], "genero": "Dubstep"},
+  {"id": 63, "nombre": "Ragga Bomb", "duracionSegundos": 268, "albumId": 11, "artistaIds": [8], "genero": "Dubstep"},
+  {"id": 64, "nombre": "Coast Is Clear", "duracionSegundos": 312, "albumId": 11, "artistaIds": [8], "genero": "Hip Hop"},
+  {"id": 65, "nombre": "Stranger", "duracionSegundos": 254, "albumId": 11, "artistaIds": [8], "genero": "Electronica"},
+  {"id": 66, "nombre": "Try It Out", "duracionSegundos": 241, "albumId": 11, "artistaIds": [8], "genero": "Dubstep"},
+  {"id": 67, "nombre": "Fire Away", "duracionSegundos": 287, "albumId": 11, "artistaIds": [8], "genero": "Indie Pop"},
+  {"id": 68, "nombre": "Cumbiana", "duracionSegundos": 234, "albumId": 12, "artistaIds": [10], "genero": "Vallenato"},
+  {"id": 69, "nombre": "Más Que Todo", "duracionSegundos": 218, "albumId": 12, "artistaIds": [10], "genero": "Vallenato"},
+  {"id": 70, "nombre": "Canción Bonita", "duracionSegundos": 241, "albumId": 12, "artistaIds": [10], "genero": "Cumbia"},
+  {"id": 71, "nombre": "Déjame Entrar", "duracionSegundos": 225, "albumId": 12, "artistaIds": [10], "genero": "Vallenato"},
+  {"id": 72, "nombre": "La Bicicleta", "duracionSegundos": 212, "albumId": 12, "artistaIds": [10], "genero": "Cumbia"},
+  {"id": 73, "nombre": "Tambores Y Cantos", "duracionSegundos": 312, "albumId": 13, "artistaIds": [9], "genero": "Folclor"},
+  {"id": 74, "nombre": "La Verdad", "duracionSegundos": 287, "albumId": 13, "artistaIds": [9], "genero": "Cumbia"},
+  {"id": 75, "nombre": "El Pescador", "duracionSegundos": 268, "albumId": 13, "artistaIds": [9], "genero": "Folclor"},
+  {"id": 76, "nombre": "La Llorona Loca", "duracionSegundos": 254, "albumId": 13, "artistaIds": [9], "genero": "Cumbia"},
+  {"id": 77, "nombre": "Gaita de las Flores", "duracionSegundos": 298, "albumId": 13, "artistaIds": [9], "genero": "Folclor"},
+  {"id": 78, "nombre": "Son de Negros", "duracionSegundos": 241, "albumId": 13, "artistaIds": [9], "genero": "Folclor"},
+  {"id": 79, "nombre": "Las 3 Guaracheras", "duracionSegundos": 218, "albumId": 5, "artistaIds": [11, 12, 13], "genero": "Guaracha"},
+  {"id": 80, "nombre": "La Noche es Nuestra", "duracionSegundos": 203, "albumId": 2, "artistaIds": [11, 12], "genero": "Merengue"},
+  {"id": 81, "nombre": "Ritmo Caliente", "duracionSegundos": 225, "albumId": 8, "artistaIds": [11, 13], "genero": "Salsa"},
+  {"id": 82, "nombre": "Sin Parar", "duracionSegundos": 197, "albumId": 5, "artistaIds": [12, 13], "genero": "Guaracha"}
 ]
